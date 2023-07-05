@@ -1,1 +1,5 @@
-http://google.com
+---
+layout: page
+title: Resources
+permalink: /resources/
+---
