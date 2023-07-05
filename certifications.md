@@ -4,6 +4,6 @@ title: Certifications
 permalink: /certifications/
 ---
 
-Certifications:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+CERTIFICATIONS:
+
+[ITIL V3](https://personalstorage12334.s3.us-west-2.amazonaws.com/PersonalCerts/e-cert.pdf)
